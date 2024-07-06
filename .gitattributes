@@ -1,2 +1,2 @@
 *.pt filter=lfs diff=lfs merge=lfs -text
-TPSCRE模型/best_tg_model.pt filter=lfs diff=lfs merge=lfs -text
+#TPSCRE模型/best_tg_model.pt filter=lfs diff=lfs merge=lfs -text
